@@ -723,11 +723,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\yazilim.park9\\source\\repos\\YazilimParkProject\\Yazilimpark\\Yazilimpark.csproj",
       "projectName": "Yazilimpark",
       "projectPath": "C:\\Users\\yazilim.park9\\source\\repos\\YazilimParkProject\\Yazilimpark\\Yazilimpark.csproj",
       "packagesPath": "C:\\Users\\yazilim.park9\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yazilim.park9\\source\\repos\\YazilimParkProject\\Yazilimpark\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\yazilim.park9\\Source\\Repos\\YazilimParkProject\\Yazilimpark\\Yazilimpark.csproj",
+      "projectName": "Yazilimpark",
+      "projectPath": "C:\\Users\\yazilim.park9\\Source\\Repos\\YazilimParkProject\\Yazilimpark\\Yazilimpark.csproj",
+      "packagesPath": "C:\\Users\\yazilim.park9\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yazilim.park9\\Source\\Repos\\YazilimParkProject\\Yazilimpark\\obj\\",
+>>>>>>> 7c595380070de34b9c69a0ea04a2b5acf0c0fdfb
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

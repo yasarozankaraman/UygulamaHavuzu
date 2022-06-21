@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "CJMVJnT7hgKiDFhexBBnERxK5DRYYNy37XOLfdfat+s+TeSaDtmXx730oKi54YHutYHN4uyW3Co42pq9WKnkZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yazilim.park9\\source\\repos\\YazilimParkProject\\Yazilimpark\\Yazilimpark.csproj",
@@ -67,4 +68,11 @@
       ]
     }
   ]
+=======
+  "dgSpecHash": "WcjyFwmiUqOJWczngw+L15uSZjimT8ACtkNPgZzjBuTqBepnKW8svhZQ9zYnFZb6RyUmdUiaA2y8s2roASZ1WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yazilim.park9\\Source\\Repos\\YazilimParkProject\\Yazilimpark\\Yazilimpark.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 7c595380070de34b9c69a0ea04a2b5acf0c0fdfb
 }

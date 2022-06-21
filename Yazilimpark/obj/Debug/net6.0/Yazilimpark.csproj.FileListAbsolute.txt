@@ -52,6 +52,7 @@ C:\Users\yazilim.park9\Source\Repos\YazilimParkProject\Yazilimpark\obj\Debug\net
 C:\Users\yazilim.park9\Source\Repos\YazilimParkProject\Yazilimpark\obj\Debug\net6.0\Yazilimpark.pdb
 C:\Users\yazilim.park9\Source\Repos\YazilimParkProject\Yazilimpark\obj\Debug\net6.0\Yazilimpark.genruntimeconfig.cache
 C:\Users\yazilim.park9\Source\Repos\YazilimParkProject\Yazilimpark\obj\Debug\net6.0\ref\Yazilimpark.dll
+<<<<<<< HEAD
 C:\Users\yazilim.park9\source\repos\YazilimParkProject\Yazilimpark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\yazilim.park9\source\repos\YazilimParkProject\Yazilimpark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\yazilim.park9\source\repos\YazilimParkProject\Yazilimpark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -65,3 +66,5 @@ C:\Users\yazilim.park9\source\repos\YazilimParkProject\Yazilimpark\bin\Debug\net
 C:\Users\yazilim.park9\source\repos\YazilimParkProject\Yazilimpark\bin\Debug\net6.0\System.Web.WebPages.dll
 C:\Users\yazilim.park9\source\repos\YazilimParkProject\Yazilimpark\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
 C:\Users\yazilim.park9\source\repos\YazilimParkProject\Yazilimpark\bin\Debug\net6.0\System.IO.Packaging.dll
+=======
+>>>>>>> 7c595380070de34b9c69a0ea04a2b5acf0c0fdfb
